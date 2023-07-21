@@ -1544,7 +1544,7 @@ Note: The update check is often behind the latest GitHub release to ensure that 
         <location filename="Windows/OptionsGeneral.cpp" line="19"/>
         <source>This option requires an active supporter certificate</source>
         <oldsource>This option requires a valid supporter certificate</oldsource>
-        <translation type="unfinished">이 옵션을 사용하려면 유효한 후원자 인증서가 필요합니다</translation>
+        <translation>이 옵션을 사용하려면 유효한 후원자 인증서가 필요합니다</translation>
     </message>
     <message>
         <location filename="Windows/OptionsGeneral.cpp" line="22"/>
@@ -5957,7 +5957,7 @@ If you are a great patreaon supporter already, sandboxie can check online for an
     <message>
         <location filename="Forms/OptionsWindow.ui" line="294"/>
         <source>Partially checked means prevent box removal but not content deletion.</source>
-        <translation type="unfinished"></translation>
+        <translation>부분적으로 선택하면 상자는 제거되지만 내용은 삭제되지 않습니다.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="487"/>
@@ -7897,7 +7897,7 @@ Please note that this values are currently user specific and saved globally for 
         <location filename="Forms/SettingsWindow.ui" line="956"/>
         <source>Interface Options</source>
         <oldsource>Display Options</oldsource>
-        <translation type="unfinished">디스플레이 옵션</translation>
+        <translation>인터페이스 옵션</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1096"/>
@@ -7922,7 +7922,7 @@ Please note that this values are currently user specific and saved globally for 
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1069"/>
         <source>Ini Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Ini 옵션</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1119"/>
@@ -7932,7 +7932,7 @@ Please note that this values are currently user specific and saved globally for 
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1156"/>
         <source>External Ini Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>외부 Ini 편집기</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1173"/>
@@ -8142,12 +8142,6 @@ Unlike the preview channel, it does not include untested, potentially breaking, 
         <location filename="Forms/SettingsWindow.ui" line="813"/>
         <source>Use a Page Tree in the Box Options instead of Nested Tabs *</source>
         <translation>박스 옵션에서 중첩 탭 대신 페이지 트리 사용 *</translation>
-    </message>
-    <message>
-        <location filename="Forms/SettingsWindow.ui" line="835"/>
-        <location filename="Forms/SettingsWindow.ui" line="956"/>
-        <source>Interface Options</source>
-        <translation>인터페이스 옵션</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="866"/>
