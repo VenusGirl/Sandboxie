@@ -1309,7 +1309,7 @@ You can use %USER% to save each users sandbox to an own fodler.</oldsource>
     <message>
         <location filename="Helpers/IniHighlighter.cpp" line="389"/>
         <source>Superseded by</source>
-        <translation>체됨</translation>
+        <translation>대체됨</translation>
     </message>
     <message>
         <location filename="Helpers/IniHighlighter.cpp" line="411"/>
